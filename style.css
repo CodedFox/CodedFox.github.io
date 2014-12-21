@@ -1,35 +1,60 @@
 
 
 body {
-
     font-family: "Arial", sans-serif;
     background-color: #191919;
-}
 
-
-h1, h2 {
-
-    font-family: "Arial", sans-serif;
-    text-align: left;
 }
 
 
 .main-header {
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+    text-align: center;
 
     color: #E6E6E6;
-    font-size: 25px;
+    font-size: 40px;
+
+    border: 0;
+    padding: 15px 0px 10px 0px;
+    margin: 0px auto;
 }
 
 
 .sub-header {
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+    text-align: center;
 
     color: #E6E6E6;
-    font-size: 20px;
+    font-size: 25px;
+
+    border: 0;
+    padding: 15px 0px 0px 0px;
+    margin: 0px auto;
 }
 
 
-.writing {
-
+.container {
     color: #E6E6E6;
     font-size: 15px;
+    text-align: justify;
+
+    width: 500px;
+    border: 10px solid E6E6E6;
+    padding: 5px;
+    margin: 0px auto;
+}
+
+.to-be-continued {
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+    text-align: left;
+
+    color: #E6E6E6;
+    font-size: 20px;
+
+    border: 0;
+    padding: 15px 0px 0px 0px;
+    margin: 0px auto;
 }
